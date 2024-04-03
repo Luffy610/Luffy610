@@ -22,7 +22,7 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
   
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dhruvkotwani/)
+- LinkedIn: [Dhruv Kotwani](https://www.linkedin.com/in/dhruvkotwani/)
 - Email: dhruvkotwani@outlook.com
 - Twitter: [@Dhruv Kotwani](https://twitter.com/Dhurv_Kotwani)
 
