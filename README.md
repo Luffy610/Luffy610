@@ -19,7 +19,7 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
   
 ## Current Projects
 
-- Building a Youtube Clone (Just Frontend)
+- 
   
 ## Get in Touch
 
