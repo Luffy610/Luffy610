@@ -8,6 +8,7 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
 
 - **Languages:** Python, JavaScript, SQL
 - **Cloud Platforms:** AWS (EC2, S3, Lambda, API Gateway, DynamoDB, RDS, ECS, EKS, etc.)
+- **Libraries:** Pandas, Matplotlib
 - **Tools & Frameworks:** Chef, TeamCity, ITRS, Spark, Splunk, Bitbucket, Docker, Kafka, Jupyter
 - **Databases:** MySQL, SQL
 - **Version Control:** Git (Bitbucket, Stash)
