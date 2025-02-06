@@ -15,7 +15,7 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
   
 ## Certifications
 
-- Pursuing AWS Developer Certificate
+- Pursuing AWS Cloud Practitioner Certificate
 - 
 ## Achievements
 
