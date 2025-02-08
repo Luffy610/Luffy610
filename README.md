@@ -20,7 +20,7 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
 ## Achievements
 
 - 🏆 **2nd Place** in **GenAI Barclays Hackathon (Regional Pune Level)**  
-   Successfully developed an innovative solution during the hackathon, showcasing my expertise in Generative AI.
+   Successfully developed an innovative solution during the hackathon, showcasing my expertise in Generative AI.[Repo Link](https://github.com/Luffy610/hackathon-nov-2024)
 
 ## Current Projects
 
