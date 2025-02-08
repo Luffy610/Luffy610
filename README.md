@@ -24,7 +24,8 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
 
 ## Current Projects
 
-- 
+- Developed a set of JavaScript mini-projects, including Tic-Tac-Toe, Rock-Paper-Scissors, and a Currency Converter, to enhance my JS skills
+  [Repo Link](https://github.com/Luffy610/JavaScript/tree/main/Mini-Projects)
   
 ## Get in Touch
 
