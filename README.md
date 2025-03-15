@@ -15,7 +15,7 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
   
 ## Certifications
 
-- [AWS Cloud Practitioner Certificate] (https://www.credly.com/badges/da053a54-9522-4bd3-aeac-7d888dbe46ca/public_url)
+- [AWS Cloud Practitioner Certificate](https://www.credly.com/badges/da053a54-9522-4bd3-aeac-7d888dbe46ca/public_url)
 - Pursuing AWS Gen AI Practitioner
 - 
 ## Achievements
