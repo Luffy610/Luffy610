@@ -25,7 +25,7 @@ I am a Python Data Engineer at Barclays with a passion for building scalable and
 
 ## Current Projects
 
--Exploring various **Node.js** concepts, including asynchronous programming, file system operations, Express.js, middleware, authentication, and database        integration. This project serves as a hands-on learning space for mastering Node.js fundamentals and advanced topics.
+- Exploring various **Node.js** concepts, including asynchronous programming, file system operations, Express.js, middleware, authentication, and database        integration. This project serves as a hands-on learning space for mastering Node.js fundamentals and advanced topics.
   [Repo Link](https://github.com/Luffy610/NodeJS)  
 - Developed a set of JavaScript mini-projects, including Tic-Tac-Toe, Rock-Paper-Scissors, and a Currency Converter, to enhance my JS skills
   [Repo Link](https://github.com/Luffy610/JavaScript/tree/main/Mini-Projects)
