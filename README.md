@@ -1,7 +1,7 @@
 # Hello, I'm Dhruv Kotwani 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Python+Data+Engineer+%7C+AWS+Cloud+Enthusiast;Building+Scalable+Data+Solutions;Passionate+about+Innovation+%26+Problem-Solving" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI+Engineer%7C+AWS+Cloud+Enthusiast;Python+Data+Engineer;Building+Scalable+Data+Solutions" alt="Typing animation"/>
 </div>
 
 <div align="center">
@@ -22,17 +22,24 @@
 
 ```python
 dhruv = {
-    "location": "Pune, India 🇮🇳",
-    "currentRole": "Python Data Engineer @ Barclays",
-    "email": "dhruvkotwani@outlook.com",
-    "expertise": ["Data Engineering", "Cloud Technologies", "System Design"],
-    "learning": ["Generative AI", "Advanced AWS", "System Architecture"],
-    "passion": "Building scalable, efficient data solutions that drive innovation",
-    "funFact": "I debug with chai ☕ and deploy with confidence 🚀"
+    "location"      : "Pune, India 🇮🇳",
+    "current_role"  : "Python Data Engineer @ Barclays",
+    "trajectory"    : "Data Engineering → AI Engineering 🚀",
+    "email"         : "dhruvkotwani@outlook.com",
+    "core_skills"   : ["Agentic AI", "Data Engineering", "AWS Cloud", "System Design"],
+    "currently"     : ["Building MCP security middleware", "Designing multi-agent pipelines"],
+    "philosophy"    : "Ship fast. Think deeply. Build things that last.",
+    "debug_fuel"    : "chai ☕ + terminal logs 🖥️"
 }
 ```
 
-I'm a **Python Data Engineer** with a strong passion for designing and implementing **scalable data pipelines** and **cloud-based solutions**. With hands-on expertise in **AWS**, machine learning, and data analytics, I thrive on solving complex problems and pushing the boundaries of what's possible in the data space.
+I started my journey moving bytes at scale — pipelines, streams, warehouses. Then I got a taste of what happens when those pipelines start feeding intelligent agents, and I never looked back.
+Today, I'm actively transitioning from Python Data Engineering → AI Engineering, with a focus on:
+
+Agentic AI systems built on Claude & AWS Bedrock
+MCP (Model Context Protocol) server design & security
+Multi-agent orchestration pipelines for production environments
+GenAI infrastructure that's actually secure, scalable, and san
 
 ---
 
@@ -60,13 +67,17 @@ I'm a **Python Data Engineer** with a strong passion for designing and implement
   EC2 • S3 • Lambda • API Gateway • DynamoDB • RDS • ECS • EKS • CloudWatch
 </div>
 
+### 🤖 AI / ML Stack
+<div align="center">
+AWS Bedrock • Claude API • MCP Protocol • LangChain • Anthropic SDK • Presidio 
+</div>
+
 ---
 
 ## 🏆 Achievements & Certifications
 
 ### Certifications
 - **AWS Cloud Practitioner** ✅ [View Credential](https://www.credly.com/badges/da053a54-9522-4bd3-aeac-7d888dbe46ca/public_url)
-- **AWS Gen AI Practitioner** 🎯 Currently Pursuing
 
 ### Hackathon
 - 🥈 **2nd Place** - **GenAI Barclays Hackathon (Regional Pune Level)**
@@ -87,17 +98,9 @@ I'm a **Python Data Engineer** with a strong passion for designing and implement
 
 ## 🚀 Current & Featured Projects
 
-### 📌 **NodeJS Mastery Hub**
-A comprehensive learning space exploring core and advanced NodeJS concepts including asynchronous programming, Express.js, middleware, authentication, and database integration.  
-⭐ [View Repository](https://github.com/Luffy610/NodeJS)
-
-### 📌 **JavaScript Mini-Projects**
-Collection of interactive JavaScript projects including Tic-Tac-Toe, Rock-Paper-Scissors, and Currency Converter to strengthen fundamental JS skills.  
-⭐ [View Repository](https://github.com/Luffy610/JavaScript/tree/main/Mini-Projects)
-
-### 📌 **Data Engineering Playground**
-Hands-on projects with Pandas, data analysis, and stock market monitoring using Python.  
-⭐ [View Repositories](https://github.com/Luffy610?tab=repositories)
+### 📌 **F1-MCP**
+Formula 1 MCP server that exposes race data, driver stats, and team information for AI-powered  
+⭐ [View Repository](https://github.com/Luffy610/f1-mcp)
 
 ---
 
