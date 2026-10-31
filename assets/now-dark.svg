@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="226" viewBox="0 0 1000 226" role="img" aria-label="Now: Building MCP security middleware: guardrails between agents and tools; Designing multi-agent pipelines on AWS Bedrock; Moving from Python data engineering into AI engineering">
+<title>Now: Building MCP security middleware: guardrails between agents and tools; Designing multi-agent pipelines on AWS Bedrock; Moving from Python data engineering into AI engineering</title>
+<style>
+  .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<text class="mono" x="2" y="14" font-size="13" letter-spacing="1.6" fill="#22d3ee">01 / NOW</text>
+<rect x="0.5" y="36.5" width="999" height="189" rx="10" fill="#010409" stroke="#30363d"/>
+<line x1="1" y1="68" x2="999" y2="68" stroke="#21262d"/>
+<circle cx="22" cy="52" r="5" fill="#30363d"/><circle cx="40" cy="52" r="5" fill="#30363d"/><circle cx="58" cy="52" r="5" fill="#30363d"/>
+<text class="mono" x="500.0" y="56" font-size="12" text-anchor="middle" fill="#8b949e">~/now.md</text>
+<text class="mono" x="28" y="98" font-size="16"><tspan fill="#22d3ee">dhruv@pune</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#e6edf3">cat now.md</tspan></text>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.706;1" dur="0.85s" fill="freeze"/><text class="mono" x="28" y="130" font-size="16" fill="#fbbf24">→</text><text class="mono" x="52" y="130" font-size="16" fill="#c9d1d9">Building MCP security middleware: guardrails between agents and tools</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.821;1" dur="1.40s" fill="freeze"/><text class="mono" x="28" y="162" font-size="16" fill="#fbbf24">→</text><text class="mono" x="52" y="162" font-size="16" fill="#c9d1d9">Designing multi-agent pipelines on AWS Bedrock</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.872;1" dur="1.95s" fill="freeze"/><text class="mono" x="28" y="194" font-size="16" fill="#fbbf24">→</text><text class="mono" x="52" y="194" font-size="16" fill="#c9d1d9">Moving from Python data engineering into AI engineering</text></g>
+<rect x="28" y="211" width="9" height="17" fill="#22d3ee" opacity="0">
+  <animate attributeName="opacity" values="0;1" begin="2.25s" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+</rect>
+</svg>

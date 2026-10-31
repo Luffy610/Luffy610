@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" role="img" aria-label="Stack. AI: AWS Bedrock, Claude API, MCP, LangChain, Presidio; DATA: Python, SQL, Spark, Kafka, Pandas; CLOUD: AWS Lambda, ECS / EKS, DynamoDB, Docker">
+<title>Stack. AI: AWS Bedrock, Claude API, MCP, LangChain, Presidio; DATA: Python, SQL, Spark, Kafka, Pandas; CLOUD: AWS Lambda, ECS / EKS, DynamoDB, Docker</title>
+<style>
+  .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<text class="mono" x="2" y="14" font-size="13" letter-spacing="1.6" fill="#22d3ee">04 / STACK</text>
+<text class="mono" x="2" y="56" font-size="12" fill="#8b949e">AI</text>
+<g><rect x="92.0" y="34" width="116.2" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="150.1" y="55" font-size="14" text-anchor="middle" fill="#e6edf3">AWS Bedrock</text></g>
+<g><rect x="218.2" y="34" width="108.4" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="272.4" y="55" font-size="14" text-anchor="middle" fill="#e6edf3">Claude API</text></g>
+<g><rect x="336.6" y="34" width="53.5" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="363.4" y="55" font-size="14" text-anchor="middle" fill="#e6edf3">MCP</text></g>
+<g><rect x="400.2" y="34" width="100.6" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="450.4" y="55" font-size="14" text-anchor="middle" fill="#e6edf3">LangChain</text></g>
+<g><rect x="510.7" y="34" width="92.7" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="557.1" y="55" font-size="14" text-anchor="middle" fill="#e6edf3">Presidio</text></g>
+<text class="mono" x="2" y="100" font-size="12" fill="#8b949e">DATA</text>
+<g><rect x="92.0" y="78" width="77.0" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="130.5" y="99" font-size="14" text-anchor="middle" fill="#e6edf3">Python</text></g>
+<g><rect x="179.0" y="78" width="53.5" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="205.8" y="99" font-size="14" text-anchor="middle" fill="#e6edf3">SQL</text></g>
+<g><rect x="242.6" y="78" width="69.2" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="277.2" y="99" font-size="14" text-anchor="middle" fill="#e6edf3">Spark</text></g>
+<g><rect x="321.8" y="78" width="69.2" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="356.4" y="99" font-size="14" text-anchor="middle" fill="#e6edf3">Kafka</text></g>
+<g><rect x="401.0" y="78" width="77.0" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="439.5" y="99" font-size="14" text-anchor="middle" fill="#e6edf3">Pandas</text></g>
+<text class="mono" x="2" y="144" font-size="12" fill="#8b949e">CLOUD</text>
+<g><rect x="92.0" y="122" width="108.4" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="146.2" y="143" font-size="14" text-anchor="middle" fill="#e6edf3">AWS Lambda</text></g>
+<g><rect x="210.4" y="122" width="100.6" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="260.7" y="143" font-size="14" text-anchor="middle" fill="#e6edf3">ECS / EKS</text></g>
+<g><rect x="321.0" y="122" width="92.7" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="367.3" y="143" font-size="14" text-anchor="middle" fill="#e6edf3">DynamoDB</text></g>
+<g><rect x="423.7" y="122" width="77.0" height="32" rx="7" fill="#161b22" stroke="#30363d"/><text class="sans" x="462.2" y="143" font-size="14" text-anchor="middle" fill="#e6edf3">Docker</text></g>
+</svg>

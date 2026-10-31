@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="260" viewBox="0 0 300 260" role="img" aria-label="MCP Security Middleware (building): A guardrail layer between agents and tools: redacts PII, enforces policy and logs every call.">
+<title>MCP Security Middleware (building): A guardrail layer between agents and tools: redacts PII, enforces policy and logs every call.</title>
+<style>
+  .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="0.5" y="0.5" width="299" height="259" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="299" height="259" rx="12" fill="none" stroke="#0e7490" stroke-width="1.5"
+      stroke-dasharray="80 1036" opacity="0.9">
+  <animate attributeName="stroke-dashoffset" values="0;-1116" dur="7s" repeatCount="indefinite"/>
+</rect>
+<circle cx="24" cy="28" r="4" fill="#b45309"><animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="24" cy="28" r="4" fill="none" stroke="#b45309"><animate attributeName="r" values="4;10.4" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="1.6s" repeatCount="indefinite"/></circle>
+<text class="mono" x="36" y="32" font-size="12" letter-spacing="0.6" fill="#59636e">BUILDING</text>
+<text class="mono" x="280" y="32" font-size="12" text-anchor="end" fill="#59636e">MCP · Presidio</text>
+<text class="sans" x="20" y="74" font-size="20" font-weight="700" fill="#1f2328">MCP Security Middleware</text>
+<text class="sans" x="20" y="110" font-size="15" fill="#31373d">A guardrail layer between agents</text><text class="sans" x="20" y="131" font-size="15" fill="#31373d">and tools: redacts PII, enforces</text><text class="sans" x="20" y="152" font-size="15" fill="#31373d">policy and logs every call.</text>
+<rect x="20" y="204" width="260" height="36" rx="7" fill="#f6f8fa" stroke="#d8dee4"/>
+<text class="mono" x="32" y="227" font-size="12.5" fill="#b45309">[EMAIL] [PERSON] [ID]</text>
+<text class="sans" x="268" y="228" font-size="16" text-anchor="end" fill="#0e7490">→</text>
+</svg>

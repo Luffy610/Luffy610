@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="46" viewBox="0 0 141 46" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>
+  .sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="140" height="45" rx="9" fill="#0b2530" stroke="#22d3ee"/><g transform="translate(18 11)" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></g><text class="sans" x="50" y="29" font-size="15" fill="#e6edf3">LinkedIn</text>
+</svg>
